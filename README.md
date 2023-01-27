@@ -25,6 +25,7 @@ Publish the website in the given URL.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -116,7 +117,7 @@ Publish the website in the given URL.
 </form>
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![output](./calc.png)
 ## Result:
